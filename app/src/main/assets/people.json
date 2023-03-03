@@ -1,0 +1,33 @@
+[
+    {
+        "id": 0,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Mark_Zuckerberg_F8_2019_Keynote_%2832830578717%29_%28cropped%29.jpg/300px-Mark_Zuckerberg_F8_2019_Keynote_%2832830578717%29_%28cropped%29.jpg",
+        "title": "Mark Zuckerberg",
+        "description": "Mark Elliot Zuckerberg (sinh ngày 14 tháng 5 năm 1984) là một nhà lập trình máy tính người Mỹ kiêm doanh nhân mảng công nghệ Internet. Anh là nhà đồng sáng lập của Meta (ban đầu tên là Facebook), và hiện đang điều hành công ty này với chức danh chủ tịch kiêm giám đốc điều hành."
+    },
+    {
+        "id": 1,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Elon_Musk_Royal_Society_%28crop1%29.jpg/375px-Elon_Musk_Royal_Society_%28crop1%29.jpg",
+        "title": "Mark Zuckerberg",
+        "description": "Elon Reeve Musk FRS (sinh ngày 28 tháng 6 năm 1971), là một kỹ sư, nhà tài phiệt, nhà phát minh, doanh nhân công nghệ và nhà từ thiện người Mỹ gốc Nam Phi. Ông cũng là công dân mang hai quốc tịch Nam Phi và Canada."
+    },
+    {
+        "id": 2,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Duong_Lam_2020.jpg/375px-Duong_Lam_2020.jpg",
+        "title": "Anh Dương Lâm Đồng Nai",
+        "description": "Lê Dương Bảo Lâm sinh ngày 11 tháng 7 năm 1989 tại tỉnh Đồng Nai. Anh bắt đầu được khán giả biết đến khi tham gia và đạt thành tích Quán quân chương trình Cười xuyên Việt năm 2015."
+    },
+    {
+        "id": 3,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Warren_Buffett_KU_Visit.jpg/405px-Warren_Buffett_KU_Visit.jpg",
+        "title": "Warren Buffett",
+        "description": "Warren Edward Buffett sinh ngày 30 tháng 8 năm 1930 tại Omaha, tiểu bang Nebraska, Hoa Kỳ, là một nhà đầu tư vĩ đại, doanh nhân và nhà từ thiện người Mỹ. Ông là nhà đầu tư thành công nhất thế giới, cổ đông lớn nhất kiêm giám đốc hãng Berkshire Hathaway."
+    },
+    {
+        "id": 4,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Bill_Gates_2018.jpg/375px-Bill_Gates_2018.jpg",
+        "title": "Bill Gates",
+        "description": "William Henry Bill Gates III (sinh ngày 28 tháng 10 năm 1955), là một doanh nhân người Mỹ, nhà từ thiện, tác giả và chủ tịch tập đoàn Microsoft, hãng phần mềm mà ông cùng với Paul Allen đã sáng lập ra. Ông luôn có mặt trong danh sách những người giàu nhất trên thế giới."
+    }
+
+]
